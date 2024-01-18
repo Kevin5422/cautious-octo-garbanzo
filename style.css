@@ -189,17 +189,20 @@ background: linear-gradient(to bottom, #121e3c, #121e3c);
 
 @media (max-width: 750px) {
 
-    .cardGlobal {
+    .cardGlobal{
         display: flex;
         max-width: 553;
         min-width: 667;
         flex-direction: column;
+        margin: 15%;
     }
     .imagenCard {
         max-width: 553;
         max-height: 667;
           width: 250px;
           height: 250px;
+          margin: 5%;
+          padding: auto;
 
     }
     .boton {
