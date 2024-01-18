@@ -1,0 +1,30 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Petrona:wght@500&display=swap');
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+background-color: rgb(129, 5, 78);
+}
+
+.nosotros {text-align: center;
+    text-size-adjust: 8px;
+    width: auto;
+    gap: 30px;
+    margin-top: 40px;
+    text-size-adjust: 0;
+    color: rgb(245, 197, 231);
+    
+    
+}
+.h1 {font-family: 'Bungee Spice', sans-serif;}
+
+.Fotos, img{
+    display: flex;
+    height: 100%;
+    width: 100%;
+    gap: 4px;
+}
